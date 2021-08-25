@@ -13,7 +13,7 @@
     <PackageReference Include="ACoreX.Extensions.Types" Version="1.0.1" />
     <PackageReference Include="ACoreX.Injector.Core" Version="1.0.1" />
     <PackageReference Include="Dapper" Version="2.0.30" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
     <PackageReference Include="Microsoft.CodeAnalysis" Version="3.3.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
     <PackageReference Include="Smart.Data.Abstractions" Version="1.0.2" />
